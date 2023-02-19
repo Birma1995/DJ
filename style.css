@@ -1,0 +1,222 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.navlist {
+    list-style: none;
+    color: white;
+    justify-content: space-around;
+    margin-left: 80px;
+    display: flex;
+    column-gap: 80px;
+}
+.listone{
+    font-family: 'Josefin Sans', sans-serif;
+}
+header{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+   
+}
+.logos{
+    margin-left: 150px;
+}
+.single{
+    position: absolute;
+        width: 270px;
+        height: 72px;
+        left: 100px;
+        top: 282px;
+        color: white;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 72px;
+}
+.war{
+    position: absolute;
+        width: 655px;
+        height: 150px;
+        left: 100px;
+        top: 354px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 100px;
+        line-height: 150px;
+        opacity: 0.5;
+}
+body{
+    background: url(image/phon1.jpg);
+    background-color: #1c1b21;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+.cards{
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    left: 100px;
+    top: 650px;
+    display: flex;
+    column-gap: 15px;
+    background-color: #1c1b21;
+    align-items: center;
+}
+
+.working{
+    position: absolute;
+    width: 310px;
+    height: 48px;
+    left: 125px;
+    top: 840px;
+    color: aliceblue;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+.halloween{
+    position: absolute;
+        width: 310px;
+        height: 42px;
+        left: 485px;
+        top: 833px;
+        color: aliceblue;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+}
+.war2{
+    position: absolute;
+        width: 310px;
+        height: 48px;
+        left: 848px;
+        top: 838px;
+        color: aliceblue;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+}
+.borderone{
+    position: absolute;
+        width: 350px;
+        height: 90px;
+        left: 100px;
+        top: 810px;
+        background: #7A66CC;
+        opacity: 0.7;
+        border-radius: 20px 0px;
+}
+.bordertwo{
+    position: absolute;
+        width: 350px;
+        height: 90px;
+        left: 465px;
+        top: 810px;
+        background: #7A66CC;
+        opacity: 0.7;
+        border-radius: 20px 0px;
+    
+}
+.bordthree{
+    position: absolute;
+    width: 350px;
+    height: 90px;
+    left: 830px;
+    top: 810px;
+    background: #7A66CC;
+    opacity: 0.7;
+    border-radius: 20px 0px;
+}
+.bright{
+    position: absolute;
+    width: 4px;
+    height: 19px;
+    left: 103px;
+    top: 1089px;
+    
+}
+.brightlights{
+        position: absolute;
+        width: 310px;
+        height: 72px;
+        color: aliceblue;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 72px;
+        left: 82px;
+        top: -22px ;
+}
+.miksher{
+        position: absolute;
+        width: 64px;
+        height: 31px;
+        left: 405px;
+        top: 1352px;
+}
+
+
+.brightext{
+        color: aliceblue;
+        width: 540px;
+        height: 88px;
+        left: 405px;
+        top: 1462px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        margin-top: 60px;
+}
+.brightext2{
+        left: 405px;
+        top: 1462px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: aliceblue;
+        width: 540px;
+        height: 88px;
+        
+    }
+#square{
+    Width: 30px; 
+    Height: 30px;
+    background: #7A66CC;
+    border-radius: 10px 0px;
+}
+.based{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        color: aliceblue;
+        width: 195px;
+        height: 27px;
+        left: 455px;
+        top: 1835px;
+}
+.play{
+    position: absolute;
+    left: 100px;
+    top: 500px;
+}
+.button{
+    height: 25px;
+    width: 22px;
+}
